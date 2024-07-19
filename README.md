@@ -33,4 +33,4 @@ Interactive Tableau storyboard on a exploratory analysis of competitive league o
 
 ## **Tableau Visualization**
 
-[Tableau Visualization Link](https://public.tableau.com/views/Exercise6_7_Dashboard_Competitive_League_Analysis/Gold_Toplane_avg?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Visualization Link](https://public.tableau.com/views/Exercise6_7_Dashboard_Competitive_League_Analysis/CompetitiveLOLAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
