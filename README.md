@@ -16,7 +16,7 @@ Dataset not included in the repository due to size restriction.
 - 2024_LoL_esports_match_data_from_OraclesElixir.csv
 
 ## **Folder Structure**
-**07-2024 Competitive (Main Project Folder)**
+**Competitive_LoL_Analysis(Main Project Folder)**
 - **01 Project Management(Sub Folder)**
   -Interactive dashboard project brief .
     <br/>
